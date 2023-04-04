@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSachONL", "WebSachONL\WebSachONL.csproj", "{3FD5F77F-3142-4F5A-B625-1A934A5B235B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD5F77F-3142-4F5A-B625-1A934A5B235B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD5F77F-3142-4F5A-B625-1A934A5B235B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD5F77F-3142-4F5A-B625-1A934A5B235B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD5F77F-3142-4F5A-B625-1A934A5B235B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {842505B8-61A1-4CBB-952E-921524572CB1}
+	EndGlobalSection
+EndGlobal

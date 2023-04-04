@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Đồ_án_của_Thái.Models.Chapter>
+@{
+    ViewBag.Title = "Đọc Truyện";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Đọc Truyện</h2>
+
+@foreach (var chap in Model)
+{
+    <div class="center" style="text-align: center;">
+        <p><img src="@chap.PictureChap" alt="Ảnh Chap"></p>
+    </div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home", null, new { @class = "btn btn-warning" })
+</div>

@@ -1,0 +1,98 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+/* Set the background color of the navbar to a dark shade */
+.navbar-inverse {
+    background-color: #222;
+}
+
+    /* Add a subtle animation to the navbar links on hover */
+    .navbar-inverse .navbar-nav > li > a:hover {
+        transform: translateY(-2px);
+        transition: transform 0.2s ease-out;
+        color: #f00;
+    }
+
+    /* Change the color of the navbar links */
+    .navbar-inverse .navbar-nav > li > a {
+        color: #fff;
+    }
+
+    /* Change the color of the active navbar link */
+    .navbar-inverse .navbar-nav > .active > a {
+        color: #f00;
+    }
+
+    /* Add an animation to the navbar brand on hover */
+    .navbar-inverse .navbar-brand:hover {
+        transform: scale(1.1);
+        transition: transform 0.2s ease-out;
+        color: #f00;
+    }
+
+    /* Change the color of the navbar toggle button */
+    .navbar-inverse .navbar-toggle {
+        border-color: #fff;
+    }
+
+        /* Change the color of the navbar toggle button icon */
+        .navbar-inverse .navbar-toggle .icon-bar {
+            background-color: #fff;
+        }
+
+        /* Add an animation to the navbar toggle button on hover */
+        .navbar-inverse .navbar-toggle:hover {
+            background-color: #555;
+            transition: background-color 0.2s ease-out;
+        }
+
+/* Add a background color to the navbar and increase opacity on hover */
+.navbar-inverse {
+    background-color: rgba(51, 0, 51, 0.8); /* update the background color to a brighter shade */
+    transition: background-color 0.2s ease-out;
+}
+
+    .navbar-inverse:hover {
+        background-color: rgba(102, 18, 166, 0.9); /* update the background color to a brighter shade */
+    }
+
+
+/* Styles for the dark theme */
+.dark-theme {
+    background-color: #222;
+    color: #fff;
+}
+
+    .dark-theme .navbar-inverse {
+        background-color: #222;
+    }
+
+        .dark-theme .navbar-inverse .navbar-nav > li > a {
+            color: #fff;
+        }
+
+/* Styles for the bright theme */
+.bright-theme {
+    background-color: #fff;
+    color: #222;
+}
+
+    .bright-theme .navbar-inverse {
+        background-color: #fff;
+    }
+
+        .bright-theme .navbar-inverse .navbar-nav > li > a {
+            color: #222;
+        }
+

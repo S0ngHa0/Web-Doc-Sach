@@ -1,0 +1,28 @@
+﻿@model Đồ_án_của_Thái.Models.Comic
+
+@{
+    ViewBag.Title = "Chi Tiết Truyện";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi Tiết</h2>
+<h2>@Html.DisplayFor(model => model.NameComic)</h2>
+<div class="col-sm-12 col=md-12">
+    <div class="thumbnail">
+        <img src="@Html.DisplayFor(model => model.Picture)" alt="Hình" />
+    </div>
+    <div class="caption" style="font-size: 20px;">
+        <p>Tác giả: @Html.DisplayFor(model => model.Author)</p>
+        <p>Thể loại: @Html.DisplayFor(model => model.Category)</p>
+        <p>Mô tả: @Html.DisplayFor(model => model.Title)</p>
+    </div>
+    <div style="display:flex;">
+        @Html.ActionLink("Đọc truyện", "Read", "Home", new { id = Model.Id }, new { @class = "btn btn-warning" })
+        <div style="margin-left: 8px;">
+            @Html.ActionLink("Chỉnh sửa", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning" })
+        </div>
+        <div style="margin-left: 8px;">
+            @Html.ActionLink("Trở về", "Index", "Home", null, new { @class = "btn btn-warning" })
+        </div>
+    </div>
+</div>

@@ -1,0 +1,469 @@
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll.config
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.pdb
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe.config
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.rsp
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe.config
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.rsp
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Win32.Primitives.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.AppContext.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Collections.Immutable.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Console.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Globalization.Calendars.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.ZipFile.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Http.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Sockets.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Reflection.Metadata.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Threading.Tasks.Extensions.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.ValueTuple.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe.config
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.rsp
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe.config
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Web.Infrastructure.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Owin.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\WebGrease.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.pdb
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.AssemblyReference.cache
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CoreCompileInputs.cache
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CopyComplete
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.dll
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.pdb
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.InitialModel.resources
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.GenerateResource.cache
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse.resources
+T:\Download\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse1.resources
+C:\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll.config
+C:\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.pdb
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe.config
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.rsp
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe.config
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.rsp
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.AppContext.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Collections.Immutable.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Console.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Globalization.Calendars.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Http.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Sockets.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Reflection.Metadata.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.ValueTuple.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe.config
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.rsp
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe
+C:\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe.config
+C:\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Web.Infrastructure.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\Owin.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\WebGrease.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.pdb
+C:\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.AssemblyReference.cache
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.InitialModel.resources
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse.resources
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse1.resources
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.GenerateResource.cache
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CoreCompileInputs.cache
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CopyComplete
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.dll
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.pdb
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.dll
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.xml
+C:\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.xml
+C:\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.AddTableCourse.resources
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll.config
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.pdb
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe.config
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.rsp
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe.config
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.rsp
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.AppContext.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Console.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Http.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.ValueTuple.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe.config
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.rsp
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Owin.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\WebGrease.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.pdb
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.AssemblyReference.cache
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.InitialModel.resources
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse.resources
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse1.resources
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.AddTableCourse.resources
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.GenerateResource.cache
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CoreCompileInputs.cache
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CopyComplete
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.dll
+C:\Users\hongo\OneDrive\Máy tính\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.pdb
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll.config
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Đồ án của Thái.pdb
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.exe.config
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csc.rsp
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.exe.config
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\csi.rsp
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.AppContext.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Console.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Http.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Net.Sockets.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.ValueTuple.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.exe.config
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\vbc.rsp
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Owin.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\WebGrease.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Net.Http.Formatting.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Http.WebHost.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Helpers.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Mvc.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Optimization.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.Razor.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Deployment.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\System.Web.WebPages.Razor.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Newtonsoft.Json.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Antlr3.Runtime.pdb
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\EntityFramework.SqlServer.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.AssemblyReference.cache
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.InitialModel.resources
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse.resources
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.CreateTableCourse1.resources
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ_án_của_Thái.Migrations.AddTableCourse.resources
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.GenerateResource.cache
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CoreCompileInputs.cache
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.csproj.CopyComplete
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.dll
+D:\Work\VS\LTW\Đồ án của Thái\Đồ án của Thái\obj\Debug\Đồ án của Thái.pdb

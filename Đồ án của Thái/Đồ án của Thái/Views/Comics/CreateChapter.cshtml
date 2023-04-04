@@ -1,0 +1,33 @@
+﻿@model Đồ_án_của_Thái.ViewModels.ComicViewModel
+@{
+    ViewBag.Title = "Thêm Tập Truyện";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thêm Tập</h2>
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(m => m.Comic, "Tên truyện", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.Comic,
+                    new SelectList(Model.Comics, "Id", "NameComic"), "", new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.PictureChap, "Ảnh", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PictureChap, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
